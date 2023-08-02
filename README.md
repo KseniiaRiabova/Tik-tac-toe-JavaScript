@@ -1,9 +1,9 @@
-#Tic Tac Toe
+## Tic Tac Toe
 
 A basic Tic Tac Toe game built using HTML/JavaScript/CSS. 
 
 
-##How to get started
+## How to get started
 Two players can take turns on the same device.
 To make a move, the player will use the mouse single click to mark a space. In this version, there is no provision to undo the move. As soon as the move is done, the game proceeds to the next player’s chance.
 At each move, The game will show whose move (Circle or Cross) it is. When the game ends, it displays one of the following outcomes:
