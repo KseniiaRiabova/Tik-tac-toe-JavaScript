@@ -1,6 +1,8 @@
 ## Tic Tac Toe
 This is a simple implementation of the classic Tic Tac Toe game using vanilla JavaScript, HTML, and CSS. The game allows two players to take turns placing their respective symbols (X and O) on a 3x3 grid. The first player to align three of their symbols horizontally, vertically, or diagonally wins the game.
 
+![demo](https://github.com/KseniiaRiabova/Tik-tac-toe-JavaScript/assets/127316856/65097c00-8191-48ae-8310-0c48ac2f226a)
+
 ## Motivation
 The motivation behind creating this project was to reinforce my understanding of fundamental web development concepts and improve my skills in JavaScript, HTML, and CSS. Tic Tac Toe is a well-known game that offers an excellent opportunity to practice DOM manipulation, event handling, and logic implementation in a fun and engaging way.
 
