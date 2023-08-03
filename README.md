@@ -15,10 +15,17 @@ Cross Wins
 
 
 ## Features
-Simple and Intuitive Interface: The game has a user-friendly interface that allows players to easily understand and interact with the board.
-Two Player Mode: The game supports two players, allowing them to take turns and compete against each other.
-Win Detection: The game accurately detects winning combinations and declares the winner.
-Restart Game: Players can restart the game at any time to start a new match.
+* **Simple and Intuitive Interface:** The game has a user-friendly interface that allows players to easily understand and interact with the board.
+  
+* **Two Player Mode:** The game supports two players, allowing them to take turns and compete against each other.
+  
+* **Responsive Design:** The application is designed to be responsive and compatible with various devices, including desktops, tablets, and mobile phones.
+
+* **Win Detection:** The game accurately detects winning combinations and declares the winner.
+
+* **Restart Game:** Players can restart the game at any time to start a new match.
+
+
 
 ## How to Play
 1. Clone this repository to your local machine using `git clone`.
